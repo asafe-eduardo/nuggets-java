@@ -7,3 +7,13 @@ n
 >src/main/java/br/com/eduardo_asafe/nuggets/Autoboxing_001.java,8/e/8e29f5cd9c78d37d661242f8edf9833b921cda23
 n
 >src/main/java/br/com/eduardo_asafe/nuggets/Bigdecimal_002.java,7/b/7b0a6f0ddd4c8c7890c81a9321162544a66d8538
+f
+6src/main/java/br/com/eduardo_asafe/nuggets/Lombok.java,6/d/6ddda3059115fa74c7e84c9eac2bbf4c84f231a7
+r
+Bsrc/main/java/br/com/eduardo_asafe/nuggets/NuggetsApplication.java,f/2/f22edb36e570909a7b66d58de46729fffb9743ac
+m
+=src/main/java/br/com/eduardo_asafe/nuggets/StreamAPI_004.java,8/1/811d666791257e7442687039bddfa3e409e99ef4
+l
+<src/main/java/br/com/eduardo_asafe/nuggets/LabelFor_004.java,e/4/e44b679d19f6f4f406991047975d778a5df9e203
+m
+=src/main/java/br/com/eduardo_asafe/nuggets/StreamAPI_005.java,4/9/49b26209093e3f2a1948f465d12f9fb85a05be7f

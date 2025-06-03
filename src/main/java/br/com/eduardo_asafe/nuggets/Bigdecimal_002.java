@@ -10,9 +10,9 @@ public class Bigdecimal_002 {
         /**
          * COMO REPRESENTAR R$ 1.500.232,38 * PI
          */
-        Long dinheirolong = 1523238L * 3;
+        Long dinheirolong = (long) (1523238L * 3.14);
         Double dinheiroDouble = 1523238D * 3.14;
-        BigDecimal dinheiroBigdecimal = BigDecimal.valueOf(1523238L).multiply(new BigDecimal("3.14")).setScale(1, RoundingMode.HALF_UP);
+        BigDecimal dinheiroBigdecimal = BigDecimal.valueOf(1523238L).multiply(new BigDecimal("3.14")).setScale(3, RoundingMode.HALF_UP);
 
         System.out.println("=============== LONG =====================");
         System.out.println(dinheirolong);

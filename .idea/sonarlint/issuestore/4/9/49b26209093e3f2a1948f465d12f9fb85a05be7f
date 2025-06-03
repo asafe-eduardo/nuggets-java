@@ -1,0 +1,6 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú­©Ñþÿÿÿÿ8‹úÄ·ó2J$3fd7de70-3803-44eb-bca1-115bb8f28836
+i
+java:S3864%"!Remove this use of "Stream.peek".(¸ßË°üÿÿÿÿ8—úÄ·ó2J$dea41bfb-4bb1-4258-a3e2-777bdcdd869d
+r	java:S106%"+Replace this use of System.out by a logger.(¸ßË°üÿÿÿÿ8™úÄ·ó2J$ac52c714-8dc5-4dcb-8075-ae7c2f0e9b9b
+m	java:S106*"+Replace this use of System.out by a logger.(‰ª÷®8ÑÒÝ·ó2J$75ce439e-c25d-40ab-ba30-4fb5d6f09743
