@@ -9,11 +9,12 @@ public class LabelFor_004 {
             INNER: for(int n = 0; n < 10; ++n){
                 System.out.println("INNER FOR dentro do OUTER FOR: " + n);
                 if(i == 5){
-                    //break OUTER;
-                    break;
+                    break OUTER;
+//                    break;
                 }
             }
         }
+        System.out.println("FIM DO PROCESSAMENTO");
 
     }
 

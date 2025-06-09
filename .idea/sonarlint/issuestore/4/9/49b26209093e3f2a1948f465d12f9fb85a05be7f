@@ -1,6 +1,6 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú­©Ñþÿÿÿÿ8‹úÄ·ó2J$3fd7de70-3803-44eb-bca1-115bb8f28836
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú­©Ñþÿÿÿÿ8‹úÄ·ó2J$c4cf52b6-b97c-4ede-b0e6-967832bfabae
 i
-java:S3864%"!Remove this use of "Stream.peek".(¸ßË°üÿÿÿÿ8—úÄ·ó2J$dea41bfb-4bb1-4258-a3e2-777bdcdd869d
-r	java:S106%"+Replace this use of System.out by a logger.(¸ßË°üÿÿÿÿ8™úÄ·ó2J$ac52c714-8dc5-4dcb-8075-ae7c2f0e9b9b
-m	java:S106*"+Replace this use of System.out by a logger.(‰ª÷®8ÑÒÝ·ó2J$75ce439e-c25d-40ab-ba30-4fb5d6f09743
+java:S3864%"!Remove this use of "Stream.peek".(¸ßË°üÿÿÿÿ8—úÄ·ó2J$f6b177d2-a72f-4f87-8f6b-072ec5e01a27
+r	java:S106%"+Replace this use of System.out by a logger.(¸ßË°üÿÿÿÿ8™úÄ·ó2J$9d0250de-7133-490f-8bf4-f3e084237b43
+m	java:S106*"+Replace this use of System.out by a logger.(‰ª÷®8ÑÒÝ·ó2J$f7461e41-e34d-4c76-a730-4886cc123d80

@@ -1,14 +1,13 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ…àö8µ¾Æµó2J$b848ab31-65b8-4768-af60-a36644ac35fb
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ…àö8µ¾Æµó2J$c4199415-4599-4bb8-ba98-424a7afb8293
 ƒ
-java:S1119";Refactor the code to remove this label and the need for it.( —©ıÿÿÿÿ8Å¾Æµó2J$7b7176e0-40ae-4ef7-88e9-14d4d739f85e
-a
-java:S1065"Remove this unused label.( —©ıÿÿÿÿ8Æ¾Æµó2J$3997a33f-4731-4ccb-ba26-f82fb6ca1e74
-r	java:S106"+Replace this use of System.out by a logger.(—‚ñ˜şÿÿÿÿ8È¾Æµó2J$eb78898b-24ea-4ffe-917f-5b48d3d47905
+java:S1119";Refactor the code to remove this label and the need for it.( —©ıÿÿÿÿ8Å¾Æµó2J$ceb07430-098d-48e4-8adf-9813488ea4c0
+r	java:S106"+Replace this use of System.out by a logger.(—‚ñ˜şÿÿÿÿ8È¾Æµó2J$9db96c13-54ea-4053-b094-5631c650eb07
 ƒ
-java:S1119	";Refactor the code to remove this label and the need for it.(ÿØ¢øÿÿÿÿ8È¾Æµó2J$7440ce55-dca2-41f5-ba81-8cb8f5f6493f
+java:S1119	";Refactor the code to remove this label and the need for it.(ÿØ¢øÿÿÿÿ8È¾Æµó2J$a36e0b95-4b92-4766-822d-e58228e9d58f
 a
-java:S1065	"Remove this unused label.(ÿØ¢øÿÿÿÿ8É¾Æµó2J$9f9f94f3-52f6-42d2-9ca0-ea4a546c5e0d
+java:S1065	"Remove this unused label.(ÿØ¢øÿÿÿÿ8É¾Æµó2J$ee12ed0e-11ad-4a7b-ae7a-080845f61c0d
 r	java:S106
-"+Replace this use of System.out by a logger.(”›“äúÿÿÿÿ8É¾Æµó2J$b1fdbbe6-11af-4307-95cb-1ed712db5ced
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(âµÍèúÿÿÿÿ8Ê¾Æµó2J$bab2cfe0-736f-4a50-bbcb-a048cc42e062
+"+Replace this use of System.out by a logger.(”›“äúÿÿÿÿ8É¾Æµó2J$99ea1a59-3884-40e9-b4e2-74397d57e61e
+X	java:S125"<This block of commented-out lines of code should be removed.(±¯€¤8•üÄÁó2
+r	java:S106"+Replace this use of System.out by a logger.(°¸×Çøÿÿÿÿ8‡ò„Àó2J$f18fa124-abb9-45ec-976c-812f27ac1d4b

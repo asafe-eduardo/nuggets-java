@@ -1,0 +1,44 @@
+https://www.foton.la/desenvolvedor-java-angular/
+
+Formação:
+Graduação completa na área de TI
+
+Hard Skill:
+Angular 8 ou superior
+GIT
+SQL e banco de dados Oracle
+Java 8
+JAX-RS & JAX-WS & JMS & JPA
+JasperReports
+Bons conhecimentos em Linux
+Testes únitarios
+
+Soft Skill:
+Sólida experiência com desenvolvimento de software
+REST API (Como fazer uma requisição)
+JSON (entender a estrutura é o suficiente)
+Maven (entender a estrutura é o suficiente)
+Jboss (como subir o projeto)
+Proatividade.
+Comunicação.
+
+
+Redundancia:
+========== Angular ==========
+Typescript e Orientação a objetos;
+HTML5 e CSS3, SCSS ou SASS;
+Bootstrap 4 ou superior;
+==============================
+
+========== GIT ==========
+GIT avançado, GitHub, Git Bash;
+==============================
+
+========== Testes únitarios ==========
+JUnit;
+Mockito;
+==============================
+
+========== JAX-RS & JAX-WS & JMS & JPA ==========
+Servidor JBoss EAP 7;
+==============================
