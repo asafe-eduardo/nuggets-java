@@ -1,0 +1,46 @@
+Roadmap para Programador Junior
+├── 1. Aprenda Spring Boot
+│   ├── Spring Data
+│   │   ├── Como criar uma Repository
+│   │   └── Como criar uma Service
+│   ├── Spring Web
+│   │   └── Como criar uma Controller
+│   ├── Estereótipos no Spring
+│   ├── Mapeamento de Entidades
+│   │   └── Mapeamento de relacionamento
+│   ├── Injeção de Dependências
+│   │   ├── Dependência ciclomatica
+│   │   └── Como injetar dependências
+│   └── Criação de Testes Unitários
+│       ├── Mockito
+│       └── Spring Test
+├── 2. Aprenda Banco de Dados
+│   └── MySQL
+│       ├── DML
+│       │   ├── INSERT
+│       │   ├── UPDATE
+│       │   └── DELETE
+│       └── DDL
+│           ├── Criar tabela
+│           └── Definir Primary Key
+├── 3. Aprenda Angular
+│   ├── Modules
+│   │   ├── Estrutura
+│   │   └── Importing
+│   ├── Components
+│   │   ├── Como criar
+│   │   ├── HTML
+│   │   └── CSS/SASS
+│   └── Services
+│       └── Como criar
+├── 4. Fundamentos Java
+│   └── Orientação a Objetos
+│       ├── Como criar uma classe
+│       ├── Herança
+│       ├── Polimorfismo
+│       ├── Abstração
+│       └── Encapsulamento
+└── 5. Plus Ultra
+    └── Projetos Práticos Web
+        ├── EC2 Free Tier (AWS) ou Heroku
+        └── Deploy Spring Boot + Angular + MySQL

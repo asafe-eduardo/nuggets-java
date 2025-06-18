@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ÕÉùûÿÿÿÿ8¦Æˆø2J$977b2223-f571-4fa7-b88f-a98f6c9725d0
+m	java:S106"+Replace this use of System.out by a logger.(ÍÏİù8³Æˆø2J$ed9dccc7-492d-40b3-8c67-d1f7bc468e39
+r	java:S106#"+Replace this use of System.out by a logger.(ÿË¡†ıÿÿÿÿ8´Æˆø2J$80882387-b0a9-4249-8944-63c8c88828c1
+m	java:S106'"+Replace this use of System.out by a logger.(¿’¥ã8´Æˆø2J$df2386e0-2487-4836-b0ed-98f208c3ef69
+r	java:S106)"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8´Æˆø2J$3e17d040-c2fe-470a-a9ac-a24f112624a8
+r	java:S106*"+Replace this use of System.out by a logger.(·Çùˆıÿÿÿÿ8Ã÷‹ø2J$cb2a263e-f683-4b10-a67b-5be0d46ccd9c
+m	java:S1060"+Replace this use of System.out by a logger.(¸´îÔ8´êø2J$1ade7f05-bd22-43e7-b3ee-5ffaa7dacead
+r	java:S1064"+Replace this use of System.out by a logger.(¹Æßøüÿÿÿÿ8´êø2J$5be844ac-dbf6-4c0c-8ce2-92e9dab4257a

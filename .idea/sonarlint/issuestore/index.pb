@@ -19,3 +19,13 @@ k
 ;src/main/java/br/com/eduardo_asafe/nuggets/TreeMap_006.java,5/4/545afe66fbf2aef823072322a733291ca7c34e86
 ~
 Nsrc/main/java/br/com/eduardo_asafe/nuggets/5_dicas_para_melhorar_seu_codigo.md,d/0/d04fadf7fbdd88b7ebcd6945c8a57c7f07038159
+e
+5src/main/java/br/com/eduardo_asafe/youtube/Teste.java,8/b/8b3e654be83b9d3111bdd23d9a84af754ee5f729
+p
+@src/main/java/br/com/eduardo_asafe/nuggets/comparacao_linguagens,0/1/01b7c7f8f443e956cead9c596635bf8a3154124a
+k
+;src/main/java/br/com/eduardo_asafe/nuggets/java_junior_tree,f/e/fe2db8c63d2e9bf9c97646f1acce3bc1d7e92eb4
+k
+;src/main/java/br/com/eduardo_asafe/nuggets/Records_007.java,e/0/e0ac6870feeae3eba0dcebad836d7838b8668f48
+n
+>src/main/java/br/com/eduardo_asafe/nuggets/Comparable_008.java,e/d/ed1c859183810f35f9a54b544a1a3dda9299e87f
