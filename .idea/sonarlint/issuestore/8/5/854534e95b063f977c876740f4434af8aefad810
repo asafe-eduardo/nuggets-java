@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ëÔÅóù2J$bf088e0b-5f6e-4fe8-a862-e0c62f82dab4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌÇ'8íÔÅóù2J$3ddda4fb-c44b-4b40-8f98-fbf0f9edac5b
+m	java:S106"+Replace this use of System.out by a logger.(©…Ë¸8øÔÅóù2J$bad0eed3-1542-4ecf-bbd1-13b0c4074e13
+r	java:S106"+Replace this use of System.out by a logger.(ïê—·úÿÿÿÿ8ûÔÅóù2J$d5ec0995-5e87-43fa-bdf4-c56deda22b59
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÿÔÅóù2J$bd90ca81-13fe-4385-81ad-092dacc0a369
+m	java:S106"+Replace this use of System.out by a logger.(Ë£Ù«8€ÕÅóù2J$94084214-7d1e-46e8-879c-48d8988b1bf8
+r	java:S106"+Replace this use of System.out by a logger.(›‚‰¯şÿÿÿÿ8„ÕÅóù2J$aa755ca8-e1ef-4aa2-9b40-d0b4d0de3a55

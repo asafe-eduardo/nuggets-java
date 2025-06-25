@@ -26,7 +26,6 @@ public class Records_007 {
     public static void main(String[] args) throws JsonProcessingException {
         ObjectMapper mapper = new ObjectMapper();
 
-
         System.out.println("===================== CLASSE CONCRETA ==================");
         TesteDTO testeDTO = new TesteDTO("valor1", "valor2");
 

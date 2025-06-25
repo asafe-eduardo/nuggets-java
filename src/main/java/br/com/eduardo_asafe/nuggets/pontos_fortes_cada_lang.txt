@@ -1,0 +1,27 @@
+Python
++-----------------------------------------+-----------------------------+---------------------------------------+
+| PONTOS FORTES                           |   PONTOS FRACOS             | TAREFAS IDEAIS                        |
++-----------------------------------------+-----------------------------+---------------------------------------+
+| - Curva de aprendizagem muito baixa     | - Baixo desempenho          | - Ciência de dados, machine learning  |
+| - Remuneração competitiva em IA         | - Alto consumo de memoria   | - Automação de tarefas e scripts      |
+| - Comunidade ativa e vasto ecossistema  |                             | - Desenvolvimento web (Django, Flask) |
++-----------------------------------------+-----------------------------+---------------------------------------+
+
+Java
++-----------------------------------------+----------------------------------------------+---------------------------------------+
+| PONTOS FORTES                           |   PONTOS FRACOS                              | TAREFAS IDEAIS                        |
++-----------------------------------------+----------------------------------------------+---------------------------------------+
+| - Forte presença corporativa e bancária | - Curva de aprendizagem média                | - Desenvolvimento corporativo         |
+| - Alta demanda no mercado de trabalho   | - Código verboso                             | - Aplicações Android                  |
+| - Boa remuneração                       | - Consumo de memória moderado (memory leak)  | - Sistemas distribuídos, web services |
+| - Ecossistema maduro e multiplataforma  |                                              | - Backend robusto e escalável         |
++-----------------------------------------+----------------------------------------------+---------------------------------------+
+
+Rust
++------------------------------------------+--------------------------------------+--------------------------------------+
+| PONTOS FORTES                            |   PONTOS FRACOS                      | TAREFAS IDEAIS                       |
++------------------------------------------+--------------------------------------+--------------------------------------+
+| - Altíssimo desempenho (nível C++)       | - Curva de aprendizagem alta         | - Sistemas embarcados e operacionais |
+| - Segurança de memória (memory safe)     | - Mercado de trabalho ainda pequeno  | - Backends performáticos             |
+| - Interesse crescente no mercado         | - Ecossistema ainda amadurecendo     | - Substituição de C/C++              |
++------------------------------------------+--------------------------------------+--------------------------------------+

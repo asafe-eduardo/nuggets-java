@@ -1,9 +1,9 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ÕÉùûÿÿÿÿ8¦Æˆø2J$977b2223-f571-4fa7-b88f-a98f6c9725d0
-m	java:S106"+Replace this use of System.out by a logger.(ÍÏİù8³Æˆø2J$ed9dccc7-492d-40b3-8c67-d1f7bc468e39
-r	java:S106#"+Replace this use of System.out by a logger.(ÿË¡†ıÿÿÿÿ8´Æˆø2J$80882387-b0a9-4249-8944-63c8c88828c1
-m	java:S106'"+Replace this use of System.out by a logger.(¿’¥ã8´Æˆø2J$df2386e0-2487-4836-b0ed-98f208c3ef69
-r	java:S106)"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8´Æˆø2J$3e17d040-c2fe-470a-a9ac-a24f112624a8
-r	java:S106*"+Replace this use of System.out by a logger.(·Çùˆıÿÿÿÿ8Ã÷‹ø2J$cb2a263e-f683-4b10-a67b-5be0d46ccd9c
-m	java:S1060"+Replace this use of System.out by a logger.(¸´îÔ8´êø2J$1ade7f05-bd22-43e7-b3ee-5ffaa7dacead
-r	java:S1064"+Replace this use of System.out by a logger.(¹Æßøüÿÿÿÿ8´êø2J$5be844ac-dbf6-4c0c-8ce2-92e9dab4257a
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨ÕÉùûÿÿÿÿ8¦Æˆø2J$ff181553-21b5-41cc-a7c1-91927044f454
+m	java:S106"+Replace this use of System.out by a logger.(ÍÏİù8³Æˆø2J$1aa3a545-3a60-4588-8cd2-983d9a866b80
+r	java:S106""+Replace this use of System.out by a logger.(ÿË¡†ıÿÿÿÿ8´Æˆø2J$3e75bfc2-021e-47b2-a3f6-a91e2579cd0e
+m	java:S106&"+Replace this use of System.out by a logger.(¿’¥ã8´Æˆø2J$02d69e21-ae8b-4e57-a35c-6f6506b0214b
+r	java:S106("+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8´Æˆø2J$1e837737-8c17-44af-87d6-2d8b8643bffe
+r	java:S106)"+Replace this use of System.out by a logger.(·Çùˆıÿÿÿÿ8Ã÷‹ø2J$f33949a9-da00-4160-b1ef-f0cd2d14af9b
+m	java:S106/"+Replace this use of System.out by a logger.(¸´îÔ8´êø2J$5deb59d6-4a0a-48b4-8a20-ee0e3adcafa2
+r	java:S1063"+Replace this use of System.out by a logger.(¹Æßøüÿÿÿÿ8´êø2J$36a6cbf7-fa38-4343-a3a3-1f28fddc1619

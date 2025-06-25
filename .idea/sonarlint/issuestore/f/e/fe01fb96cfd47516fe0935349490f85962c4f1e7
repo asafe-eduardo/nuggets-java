@@ -1,0 +1,30 @@
+
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šïè§8ø¾¤óù2J$c5083361-7ede-4646-9bd8-7feccb0d3946
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‹¨Ã8ƒ¿¤óù2J$493e586a-023d-49ad-bc86-e72df76284b0
+t
+java:S1172",Remove this unused method parameter "teste".(¤³¢—ûÿÿÿÿ8ˆ¿¤óù2J$eacbb005-731f-4767-8e59-0c23951b5db1
+m	java:S106"+Replace this use of System.out by a logger.(¾ı©¡8Š¿¤óù2J$3e4aa933-2340-47f7-b863-878aa26831c3
+o
+java:S1172",Remove this unused method parameter "teste".(‘ğÀ§8‹¿¤óù2J$ac8883b3-7b4e-4ec7-ae49-3e7807b5e836
+m	java:S106"+Replace this use of System.out by a logger.(¶à§æ8‹¿¤óù2J$5923146a-5ec5-4679-9143-91ae3fc45e9a
+n
+java:S1172",Remove this unused method parameter "teste".(¨¶Ï!8Œ¿¤óù2J$35be183e-7a62-4798-b95d-6390253bd8ef
+r	java:S106"+Replace this use of System.out by a logger.(âˆğîùÿÿÿÿ8¿¤óù2J$a29bfcd5-a182-4de7-a88a-c540233b7b52
+o
+java:S1172",Remove this unused method parameter "teste".(²¥Ïç8¿¤óù2J$9b550702-38a6-4378-98c6-801e01d88b76
+r	java:S106"+Replace this use of System.out by a logger.(’Èì²ÿÿÿÿÿ8¿¤óù2J$a08aaa47-dac8-4c6b-85ad-e7ddf2f98e59
+t
+java:S1172",Remove this unused method parameter "teste".(îï£èùÿÿÿÿ8¿¤óù2J$11bb0d8f-0926-4c3c-8c56-f9b5650d2470
+r	java:S106"+Replace this use of System.out by a logger.(ßÍ¨ûÿÿÿÿ8¿¤óù2J$4e19766e-0a9d-4bb4-a744-55021ba2e407
+o
+java:S1172 ",Remove this unused method parameter "teste".(µïª 8‘¿¤óù2J$e10afcf4-a57b-45f8-a135-f0ba9512491c
+r	java:S106!"+Replace this use of System.out by a logger.(Æ÷¾ÿüÿÿÿÿ8‘¿¤óù2J$c02b3c1c-d8c5-423d-b992-aab924645d87
+o
+java:S1172$",Remove this unused method parameter "teste".(©·ğø8’¿¤óù2J$deaedd85-a9f8-44b6-ae3a-a9a84d3f75ce
+r	java:S106%"+Replace this use of System.out by a logger.(§Š’…úÿÿÿÿ8’¿¤óù2J$452fdf4a-c675-4749-9a45-46baf942058d
+o
+java:S1172(",Remove this unused method parameter "teste".(ÔñÂ8“¿¤óù2J$258526f6-e68c-4947-ab6a-ac2c713cc183
+r	java:S106)"+Replace this use of System.out by a logger.(¡ô²ùÿÿÿÿ8“¿¤óù2J$b01bb616-0fc7-4ec8-91d0-ea654282353f
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(ÎøÊ»üÿÿÿÿ8˜¿¤óù2J$b3803651-a8ca-496d-ae0f-87d74d8f4a5b

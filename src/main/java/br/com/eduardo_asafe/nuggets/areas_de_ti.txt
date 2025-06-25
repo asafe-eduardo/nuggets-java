@@ -1,0 +1,70 @@
+Desenvolvimento de Software
++-------------------------------------------+-----------------------------------------+
+| Pontos Fortes                             | Pontos Fracos                           |
++-------------------------------------------+-----------------------------------------+
+| - Alta demanda de vagas                   | - Curva de aprendizado constante        |
+| - Bom salário inicial e progressão        | - Alta competitividade                  |
+| - Muitas possibilidades de especialização | - Cobrança por produtividade            |
++-------------------------------------------+-----------------------------------------+
+
+Data Science
++----------------------------------------+------------------------------------------+
+| Pontos Fortes                          | Pontos Fracos                            |
++----------------------------------------+------------------------------------------+
+| - Alta remuneração                     | - Curva de aprendizado íngreme           |
+| - Mercado em expansão                  | - Poucas vagas para iniciantes           |
++----------------------------------------+------------------------------------------+
+
+Arquietura de Software
++----------------------------------------+-----------------------------------------+
+| Pontos Fortes                          | Pontos Fracos                           |
++----------------------------------------+-----------------------------------------+
+| - Alto salário                         | - Exige muitos anos de experiência      |
+| - Liderança técnica                    | - Baixa entrada direta (nível sênior)   |
+|                                        | - Pressão por decisões críticas         |
++----------------------------------------+-----------------------------------------+
+
+Banco de dados/AD
++----------------------------------------+-----------------------------------------+
+| Pontos Fortes                             | Pontos Fracos                        |
++----------------------------------------+-----------------------------------------+
+| - Demanda constante em empresas        | - Alta competividade por vagas          |
+| - Salário competitivo                  | - Pouca evolução de carreira sem migrar |
+| - Área essencial para todas as áreas   |                                         |
++----------------------------------------+-----------------------------------------+
+
+DevOps
++----------------------------------------+-----------------------------------------+
+| Pontos Fortes                          | Pontos Fracos                           |
++----------------------------------------+-----------------------------------------+
+| - Valorizado em empresas grandes       | - Requer conhecimento multidisciplinar  |
+| - Impacto direto em produtividade      | - Pouco espaço para juniors             |
+|                                        | - Pressão por disponibilidade contínua  |
++----------------------------------------+-----------------------------------------+
+
+Analista de Qualidade (QA/Testes)
++-----------------------------------------+-----------------------------------------+
+| Pontos Fortes                           | Pontos Fracos                           |
++-----------------------------------------+-----------------------------------------+
+| - Porta de entrada para a área de TI    | - Salário inicial mais baixo            |
+| - Demanda constante                     | - Pode estagnar sem especialização      |
+| - Possibilidade de automação e evolução |                                         |
++-----------------------------------------+-----------------------------------------+
+
+Analista de Requisitos/Produt Owner
++-----------------------------------------+-----------------------------------------+
+| Pontos Fortes                           | Pontos Fracos                           |
++-----------------------------------------+-----------------------------------------+
+| - Papel estratégico nas entregas        | - Poucas vagas para iniciantes          |
+| - Comunicação entre cliente e time      | - Depende fortemente de soft skills     |
+| - Menor carga técnica                   |                                         |
++-----------------------------------------+-----------------------------------------+
+
+Scrum Master / Gerente de Projetos
++-----------------------------------------+----------------------------------------------+
+| Pontos Fortes                           | Pontos Fracos                                |
++-----------------------------------------+----------------------------------------------+
+| - Forte presença no mercado ágil        | - Concorrência com profissionais experientes |
+| - Boa projeção de carreira              | - Necessita certificações formais            |
+| - Média salarial boa                    |                                              |
++----------------------------------------+-----------------------------------------------+

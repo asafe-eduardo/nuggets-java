@@ -3,9 +3,9 @@ TABELA 1 – Desempenho (Throughput / Tempo de Execução)
 | Linguagem                | Desempenho médio (C = 1.0)
 |--------------------------|----------------------------|
 | Rust                     | 0.90 (10%)                 |
+| Java (GraalVM Native)    | 0.75                       |
 | C# (.NET JIT)            | 0.65                       |
 | Java (HotSpot JIT)       | 0.60                       |
-| Java (GraalVM Native)    | 0.75                       |
 | Python (CPython)         | 0.15                       |
 
 TABELA 2 – Memory Footprint (Uso de memória na inicialização)
@@ -13,10 +13,10 @@ TABELA 2 – Memory Footprint (Uso de memória na inicialização)
 | Linguagem                | Uso de Memória (MB)       |
 |--------------------------|---------------------------|
 | Rust                     | 30–50 MB                  |
-| C# (.NET Core)           | 100–150 MB                |
 | Java (GraalVM Native)    | 80–120 MB                 |
-| Java (HotSpot)           | 200–300 MB                |
+| C# (.NET Core)           | 100–150 MB                |
 | Python (CPython)         | 150–200 MB                |
+| Java (HotSpot)           | 200–300 MB                |
 
 TABELA 3 – Uso de Memória com 1 Milhão de Tarefas Concorrentes
 
