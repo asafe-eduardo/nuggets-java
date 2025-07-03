@@ -1,0 +1,28 @@
+JavaScript
++--------------------------------------------------------------+
+|                          PONTOS FORTES                       |
++--------------------------------------------------------------+
+| - Altamente popular                                          |
+| - Curva de aprendizado rápida                                |
+| - Grande ecossistema e comunidade                            |
++--------------------------------------------------------------+
+|                          PONTOS FRACOS                       |
++--------------------------------------------------------------+
+| - Sem compilação ou webpack (sem checagem semantica)         |
+| - Linguagem "Gabiarrenta"                                    |
++--------------------------------------------------------------+
+
+TypeScript
++--------------------------------------------------------------+
+|                 PONTOS FORTES                                |
++--------------------------------------------------------------+
+| - Tipagem estática previne muitos erros                      |
+| - Excelente para projetos grandes                            |
+| - Melhora legibilidade e manutenção do código                |
++--------------------------------------------------------------+
+|                 PONTOS FRACOS                                |
++--------------------------------------------------------------+
+| - Curva de aprendizado mais alta que JS puro                 |
+| - Exige etapa de compilação (transpilar para JS)             |
+| - Verbosidade maior que JS                                   |
++--------------------------------------------------------------+

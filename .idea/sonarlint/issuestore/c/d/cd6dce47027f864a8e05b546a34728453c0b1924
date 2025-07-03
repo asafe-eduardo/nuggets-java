@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëƒˆñúÿÿÿÿ8Ì ÿâü2J$d3461ac0-3073-41c2-a76a-be7d40b3e02d
+W
+java:S1700"Rename field "teste"(Õ­°8Î ÿâü2J$cb32a5ee-0a09-499b-8402-012827612edc
+r	java:S106"+Replace this use of System.out by a logger.(£±ìùÿÿÿÿ8Û ÿâü2J$62d07e21-a88c-40ab-bf81-d17013accdb5
+m	java:S106"+Replace this use of System.out by a logger.(Ùé8Ò¶ÿâü2J$29c5acb2-fa36-468c-877e-23f06e5e7a4e
+l
+java:S1068")Remove this unused "teste" private field.(Õ­°8üãÿâü2J$f9b18315-d519-4ac0-b76d-d3e28ca6b91b

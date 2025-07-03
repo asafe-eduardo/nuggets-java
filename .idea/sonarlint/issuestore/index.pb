@@ -27,8 +27,6 @@ k
 ;src/main/java/br/com/eduardo_asafe/nuggets/Records_007.java,e/0/e0ac6870feeae3eba0dcebad836d7838b8668f48
 n
 >src/main/java/br/com/eduardo_asafe/nuggets/Comparable_008.java,e/d/ed1c859183810f35f9a54b544a1a3dda9299e87f
-o
-?src/main/java/br/com/eduardo_asafe/nuggets/java_junior_tree.txt,6/4/64cf8be782b5a732fc0512e9b6ebf7eb19ab7479
 v
 Fsrc/main/java/br/com/eduardo_asafe/nuggets/pontos_fortes_cada_lang.txt,4/6/46f641ab541e983b08fe212b91987c19d8646640
 j
@@ -39,3 +37,7 @@ Asrc/main/java/br/com/eduardo_asafe/nuggets/SwitchEnhaced_009.java,6/a/6a91a003
 Osrc/main/java/br/com/eduardo_asafe/nuggets/MetodosSobrecarregadosENull_009.java,f/e/fe01fb96cfd47516fe0935349490f85962c4f1e7
 k
 ;src/main/java/br/com/eduardo_asafe/nuggets/Threads_010.java,8/5/854534e95b063f977c876740f4434af8aefad810
+p
+@src/main/java/br/com/eduardo_asafe/nuggets/javascriptXtypescript,6/a/6af630e57d7535ba0f523777d8fa79f8f900f921
+l
+<src/main/java/br/com/eduardo_asafe/nuggets/ToString_011.java,c/d/cd6dce47027f864a8e05b546a34728453c0b1924
