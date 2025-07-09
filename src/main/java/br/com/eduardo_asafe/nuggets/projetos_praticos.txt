@@ -1,0 +1,33 @@
+Legenda de dificuldade.
+* = Slime
+** = Cavaleiro errante
+*** = Quimera
+**** = Dragão
+***** = Raid boss
+
+Dashboard B.I | Dificuldade: ***
++------------------------------------------------------------------------------------+
+| Caracteristicas                         | Dificuldade: ***                         |
++------------------------------------------------------------------------------------+
+| - Deveria ser topo de lista de qualquer iniciante.                                 |
+| - Um projeto que interligue backend e frontend.                                    |
+| - Autenticação, Banco de dados, Menu, Montagem de gráficos no frontend             |
++------------------------------------------------------------------------------------+
+
+Chat interativo (Whatsapp 2, MSN)
++-----------------------------------------------------------------------------------+
+| Caracteristicas                        | Dificuldade: ***                         |
++----------------------------------------+------------------------------------------+
+| - Assincronicidade e Concorrência                                                 |
+| - Latência de rede, Gargalo                                                       |
+| - Lidar com múltiplas formatos de arquivo                                         |
++-----------------------------------------------------------------------------------+
+
+Sistema complexo com mensageria. (Ecommerce ou Controle logístico)
++----------------------------------------------------------------------------------+
+| Caracteristicas                        | Dificuldade: ****                       |
++----------------------------------------------------------------------------------+
+| - Múltiplos sistemas (Frontend, Backend, Back Logistica, Back Pagamento)         |
+| - Broker de mensageria                                                           |
+| - Lidar com diferentes aspectos negociais e técnicos                             |
++----------------------------------------------------------------------------------+

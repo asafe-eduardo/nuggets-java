@@ -41,3 +41,11 @@ p
 @src/main/java/br/com/eduardo_asafe/nuggets/javascriptXtypescript,6/a/6af630e57d7535ba0f523777d8fa79f8f900f921
 l
 <src/main/java/br/com/eduardo_asafe/nuggets/ToString_011.java,c/d/cd6dce47027f864a8e05b546a34728453c0b1924
+i
+9src/main/java/br/com/eduardo_asafe/nuggets/Datas_012.java,3/c/3ce4d91bb5dbefe179211dcef5dd9baea8299e28
+p
+@src/main/java/br/com/eduardo_asafe/nuggets/projetos_praticos.txt,1/1/118f45b0314610c20eef139195e3fd04378573b7
+s
+Csrc/main/java/br/com/eduardo_asafe/nuggets/Datas_localdate_012.java,0/e/0e73a565fe5e58b52fc439dda8745dc0be97acb6
+|
+Lsrc/main/java/br/com/eduardo_asafe/nuggets/serie_para_iniciantes_3_mental.md,4/6/46615df28ad9623b468f9717ebfd8c48e4e7e32d
