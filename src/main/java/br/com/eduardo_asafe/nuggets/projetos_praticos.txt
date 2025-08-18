@@ -1,13 +1,6 @@
-Legenda de dificuldade.
-* = Slime
-** = Cavaleiro errante
-*** = Quimera
-**** = Dragão
-***** = Raid boss
-
-Dashboard B.I | Dificuldade: ***
+Dashboard B.I
 +------------------------------------------------------------------------------------+
-| Caracteristicas                         | Dificuldade: ***                         |
+| Caracteristicas                         |                                          |
 +------------------------------------------------------------------------------------+
 | - Deveria ser topo de lista de qualquer iniciante.                                 |
 | - Um projeto que interligue backend e frontend.                                    |
@@ -16,7 +9,7 @@ Dashboard B.I | Dificuldade: ***
 
 Chat interativo (Whatsapp 2, MSN)
 +-----------------------------------------------------------------------------------+
-| Caracteristicas                        | Dificuldade: ***                         |
+| Caracteristicas                        |                                          |
 +----------------------------------------+------------------------------------------+
 | - Assincronicidade e Concorrência                                                 |
 | - Latência de rede, Gargalo                                                       |
@@ -25,7 +18,7 @@ Chat interativo (Whatsapp 2, MSN)
 
 Sistema complexo com mensageria. (Ecommerce ou Controle logístico)
 +----------------------------------------------------------------------------------+
-| Caracteristicas                        | Dificuldade: ****                       |
+| Caracteristicas                        |                                         |
 +----------------------------------------------------------------------------------+
 | - Múltiplos sistemas (Frontend, Backend, Back Logistica, Back Pagamento)         |
 | - Broker de mensageria                                                           |

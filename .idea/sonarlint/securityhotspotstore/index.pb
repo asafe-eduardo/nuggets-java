@@ -55,3 +55,9 @@ Rsrc/main/java/br/com/eduardo_asafe/nuggets/serie_para_iniciantes_1_conhecimento
 Rsrc/main/java/br/com/eduardo_asafe/nuggets/serie_para_iniciantes_2_overlearning.md,4/8/485ac139b495e1e0d70f8414263d59b681657735
 k
 ;src/main/java/br/com/eduardo_asafe/nuggets/java_junior_tree,f/e/fe2db8c63d2e9bf9c97646f1acce3bc1d7e92eb4
+s
+Csrc/main/java/br/com/eduardo_asafe/nuggets/EqualsEHashcode_014.java,e/3/e3aa9a607d48a6ac4a735e70997dffc6a2577696
+j
+:src/main/java/br/com/eduardo_asafe/nuggets/Lombok_003.java,1/e/1e1c756a81035746cd8e47afc01cc16867965473
+
+Osrc/main/java/br/com/eduardo_asafe/nuggets/3_perguntas_feitas_em_entrevistas.md,2/7/27cc69b44f13458e7fd199ff409f888c5f9b0599

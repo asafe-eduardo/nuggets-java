@@ -1,0 +1,11 @@
+
+”	java:S101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š«ÊÏøÿÿÿÿ8üó‰“†3J$e7a4a2b0-b391-4baf-91dc-27ab1ff33a4c
+l	java:S106."+Replace this use of System.out by a logger.(ïêø88–ô‰“†3J$f923ed9f-cd3b-4139-b156-9a37e7dd565d
+r	java:S106/"+Replace this use of System.out by a logger.(ÅµÏûÿÿÿÿ8—ô‰“†3J$a2ed6655-7c30-4aba-be14-37e131dd321a
+
+java:S2159/"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÅµÏûÿÿÿÿ8™ô‰“†3J$bacb099f-f0ca-403a-80f6-d68cda6cb4aa
+h
+java:S2129/" Remove this "String" constructor(ÅµÏûÿÿÿÿ8ô‰“†3J$ffefd6cd-5239-4bbf-af1d-c545e0715e86
+m	java:S1060"+Replace this use of System.out by a logger.(ˆü·†8Ÿô‰“†3J$385b68c7-6148-4e76-a069-a98441376689
+r	java:S1061"+Replace this use of System.out by a logger.(Ÿ‰–Îıÿÿÿÿ8 ô‰“†3J$45e3cfea-1509-4e28-8bed-d1acf5539b7d
+m	java:S1062"+Replace this use of System.out by a logger.(¨î÷Ğ8¡ô‰“†3J$c47e011f-e6e2-4bdf-9b34-6c2848bfe21b
