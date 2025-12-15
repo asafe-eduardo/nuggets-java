@@ -10,4 +10,6 @@ public class NuggetsApplication {
 		SpringApplication.run(NuggetsApplication.class, args);
 	}
 
+
+
 }
