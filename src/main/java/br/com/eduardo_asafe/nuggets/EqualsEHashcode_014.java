@@ -4,12 +4,12 @@ import lombok.AllArgsConstructor;
 
 import java.util.Objects;
 
-@AllArgsConstructor
+/*@AllArgsConstructor
 class Carro {
     private String cor;
     private Long preco;
 
-    /**
+
      *
      * 1. Compare se as instancias são iguais. (endereço de memoria lógico)
      * 2. Compare se são da mesma tipo.
@@ -18,7 +18,7 @@ class Carro {
      * Reflexivo, Simetrico, Transitivo, Consistente.
      *
      *
-     */
+
 
     @Override
     public boolean equals(Object o) {
@@ -34,9 +34,9 @@ class Carro {
         return Objects.hash(cor, preco); // consistente com equals
     }
 }
-
+*/
 public class EqualsEHashcode_014 {
-
+/*
     public static void main(String[] args) {
         Carro carro1 = new Carro("Vermelho", 200000L);
         Carro carro2 = new Carro("Preto", 1200000L);
@@ -50,5 +50,5 @@ public class EqualsEHashcode_014 {
         System.out.println("Carro vermelho é igual a mesma instancia " + carro1.equals(carro4));
 
     }
-
+*/
 }

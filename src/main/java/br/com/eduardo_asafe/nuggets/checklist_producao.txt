@@ -1,0 +1,44 @@
+Checklist: Seu código está pronto para produção?
+
+TESTES
+[ ] Testes unitários cobrindo regras críticas 
+[ ] Testes de integração para fluxos principais 
+
+
+SEGURANÇA 
+[ ] Sanitização contra XSS/SQL Injection 
+[ ] Dependências verificadas (vulnerabilidades conhecidas)
+
+PERFORMANCE 
+[ ] Consultas otimizadas (sem N+1, índices corretos) 
+[ ] Uso eficiente de memória 
+[ ] Caching aplicado quando necessário 
+[ ] Logs não excessivos em produção 
+
+DOCUMENTAÇÃO 
+[ ] README atualizado 
+[ ] Instruções de deploy claras
+[ ] Variáveis de ambiente documentadas 
+[ ] Decisões arquiteturais relevantes registradas (ADR)
+
+QUALIDADE DE CÓDIGO 
+[ ] Código revisado (Code Review) 
+[ ] Aprovado pelo Quality Gate Sonarqube
+
+DEVOPS / DEPLOY 
+[ ] Pipeline CI/CD validado 
+[ ] Build reproduzível 
+[ ] Versionamento adequado (tag/release) 
+[ ] Configuração de ambiente separada (dev/hml/prd) 
+[ ] Rollback definido 
+
+BANCO DE DADOS 
+[ ] Scripts de migração versionados (Flyway/Liquibase) 
+[ ] Backups validados 
+
+
+NEGÓCIO 
+[ ] Requisitos atendidos 
+[ ] Casos críticos validados com stakeholders 
+[ ] Impacto analisado em sistemas dependentes
+
