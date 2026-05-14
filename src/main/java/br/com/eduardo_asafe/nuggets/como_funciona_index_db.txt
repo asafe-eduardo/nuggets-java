@@ -1,0 +1,54 @@
+Indexes no banco de dados são muito parecidos com indexes de um livro:
+
+Java na web..................80 a 157
+Introdução a Java Server Pages .............. 198 a 257
+Java Server Faces .................. 511 a 541
+Ajax .......... 589 a 647
+
+Tabela pokemon:
+7    | Squirtle     | Water     | NULL      | 1          | false        | 48
+...
+144  | Articuno     | Ice       | Flying    | 1          | true         | 85
+145  | Zapdos       | Electric  | Flying    | 1          | true         | 90
+146  | Moltres      | Fire      | Flying    | 1          | true         | 100
+...
+151  | Mew          | Psychic   | NULL      | 1          | true         | 100
+
+para buscar por exemplo o Moltres o banco teria que sair percorrendo todas as linhas
+do banco conceitualmente seria parecido com:
+
+Bulbasaur   → 1
+Charmander  → 4
+Squirtle    → 7
+Mew         → 151
+Moltre      → 146
+
+O custo de indexar:
+
+Leituras ficam mais rápidas porém escrita na tabela ficam mais lentas.
+
+Exemplo de INDEX:
+
+CREATE INDEX ON pokemon (type_1, type_2);
+
+Vai ajudar nas consultas:
+
+SELECT * FROM pokemon WHERE type_1 = 'Water';
+SELECT * FROM pokemon WHERE type_1 = 'Water' AND type_2 = 'Flying';
+
+Conceitualmente:
+
+Bug      → Flying   → [Butterfree, Beedrill, ...]
+         → Poison   → [Venonat, Spinarak, ...]
+         → Water    → [Surskit, ...]
+Electric → NULL     → [Pikachu, Raichu, ...]
+         → Flying   → [Zapdos, ...]
+         → Steel    → [Magnemite, ...]
+Fire     → NULL     → [Charmander, Vulpix, ...]
+         → Flying   → [Charizard, Moltres, ...]
+         → Ground   → [Numel, ...]
+Grass    → Poison   → [Bulbasaur, Oddish, ...]
+         → ...
+Water    → NULL     → [Squirtle, Psyduck, ...]
+         → Flying   → [Wingull, Pelipper, ...]
+         → Ground   → [Wooper, ...]
