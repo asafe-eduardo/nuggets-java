@@ -1,0 +1,11 @@
+5 dicas que desenvolvedores java seniors utilizam:
+
+1. Escreva código na linguagem do negócio
+
+2. Pense no contrato ao invés da implementação
+
+3. Simplicidade e Estabilidade ao invés de grande alterações
+
+4. atenção aos edges cases ou cenarios de exceção que podem ocorrer.
+
+5. código bem escrito > comentários

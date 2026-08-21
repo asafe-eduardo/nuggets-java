@@ -1,0 +1,24 @@
+          PRIORIDADE DAS CONFIGURAÇÕES
+           (Spring Boot Configuration)
+
+        ▲ Maior prioridade (sobrescreve)
+        │
+        │   1 Command Line Arguments
+        │      --server.port=9090
+        │
+        │   2 Java System Properties
+        │      -Dserver.port=9090
+        │
+        │   3 Environment Variables
+        │      SERVER_PORT=9090
+        │
+        │   4 application-{profile}.properties
+        │      application-prod.properties
+        │
+        │   5 application.properties
+        │
+        ▼ Menor prioridade
+
+Melhores práticas:
+    nunca commit senhas no application.properties utilize variaveis de ambiente.
+    use profile specificos para ter valores defaults.

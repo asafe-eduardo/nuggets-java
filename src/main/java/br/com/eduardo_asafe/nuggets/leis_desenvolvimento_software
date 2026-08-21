@@ -1,0 +1,8 @@
+5-Leis do desenvolvimento de software:
+
+5. Sua máquina não é ambiente de produção.
+4. Nada é mais eterno que "aquele ajuste" temporario.
+3. Escrever logs são uma arte. (não usar informações demais, não ter informações de menos)
+2. Backups são inuteis até você precisar deles.
+1. Sempre tenha um plano de rollback.
+0. Se ta funcionando não mexa.

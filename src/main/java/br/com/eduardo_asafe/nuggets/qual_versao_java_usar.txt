@@ -1,0 +1,24 @@
++------------------+----------------------+----------------------------+----------------------------+
+| Distribuição     | Fornecedor           | Suporte                    | Cenário Ideal              |
++------------------+----------------------+----------------------------+----------------------------+
+| OpenJDK          | Comunidade           | Não                        | Estudos e desenvolvimento  |
+| Temurin          | Eclipse Foundation   | Parceiros                  | Projetos corporativos      |
+| Azul Zulu        | Azul Systems         | Sim (LTS)                  | Aplicações corporativas    |
+| Red Hat OpenJDK  | Red Hat              | Sim (LTS)                  | OpenShift e ecossistema RH |
++------------------+----------------------+----------------------------+----------------------------+
+
+Minha regra prática:
+
+Quer apenas uma distribuição gratuita e confiável?
+Use Temurin.
+
+ Está rodando em OpenShift?
+Use Red Hat OpenJDK.
+
+Quer suporte corporativo e independência de plataforma?
+Use Azul Zulu.
+
+Quer apenas desenvolver localmente?
+OpenJDK já resolve.
+
+a distribuição da JDK pode impactar suporte, ciclo de atualização, compliance e até o custo operacional da sua empresa.
